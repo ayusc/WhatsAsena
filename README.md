@@ -1,2 +1,3 @@
-## This repository is no longer being developed further.
-## Please check out our new [Primon Proto](https://github.com/phaticusthiccy/PrimonProto) project!
+## Whatsasena-Reborn
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ayusc/WhatsAsena)
+
